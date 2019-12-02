@@ -1,14 +1,14 @@
 ### Requirements ###
 
-Run on Python3
+Run on Python 3.5
 
-Deep learning:
+Deep learning libraries:
 
-- Tensorflow
+- Tensorflow 1.3
 - Keras
 - Deepcut
 
-Speech Recoginition:
+Speech Recoginition libraries:
 
 - SpeechRecognition
 - portaudio
